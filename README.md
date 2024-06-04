@@ -1,5 +1,5 @@
 # Titanic---Machine-Learning-for-Disaster-Challenge
-![Kaggle_Page](https://www.kaggle.com/c/titanic/overview)
+Link Kaggle Challenge : https://www.kaggle.com/c/titanic/overview
 
 ## The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
